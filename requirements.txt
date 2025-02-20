@@ -31,7 +31,7 @@ defusedxml==0.7.1
 dill==0.3.9
 distlib==0.3.9
 dj-database-url==2.3.0
-django==5.1.5
+Django==5.1.5
 django-ckeditor==6.7.2
 django-cleanup==9.0.0
 django-environ==0.12.0
